@@ -20,4 +20,4 @@ steps:
     sdk: 'iphoneos'
     xcWorkspacePath: '**/cocoapod-example.xcworkspace'
     scheme: 'cocoapod-example'
-    packageApp: false
+    packageApp: true
